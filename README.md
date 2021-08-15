@@ -43,7 +43,7 @@ On private leaderboard, it scored **82.8** which put me at the **6th place**.
   - `training` : To train the models
   - `main.py` : Main
   - `paths.py` : Paths to the data, to be adapted
-  - `conditional-progan-30-public.ipynb` : Solution notebook, also available at https://www.kaggle.com/theoviel/conditional-progan-30-public
+  - `conditional-progan-30-public.ipynb`
 - `output` : Generated images and model weights
 - `input` : Input data is expected here
 
