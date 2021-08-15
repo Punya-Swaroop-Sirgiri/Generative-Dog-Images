@@ -55,14 +55,13 @@ If you wish to reproduce the results, the easiest way is to fork [the Kaggle ker
 
 Data can be downloaded on the official Kaggle page : https://www.kaggle.com/c/generative-dog-images/data
 
-## Ressources
+## Resources
 
 - [Generative Adversarial Nets](https://arxiv.org/pdf/1406.2661.pdf)
 - [Deep Convolutional GANs](https://arxiv.org/pdf/1511.06434.pdf)
 - [NVIDIA's Progressive Growing of GANs paper](https://research.nvidia.com/publication/2017-10_Progressive-Growing-of)
 - [Improved Techniques for Training GANs](https://arxiv.org/pdf/1606.03498.pdf)
 - [CGANs with Projection Discriminator](https://arxiv.org/pdf/1802.05637.pdf)
-- The modeling part of the kernel is taken from [this repository](https://github.com/akanimax/pro_gan_pytorch)
 
 ## Results preview
 
