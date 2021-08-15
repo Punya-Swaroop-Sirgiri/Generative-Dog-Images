@@ -1,6 +1,4 @@
-# Kaggle : Generative Dog Images
-
-## On the competition 
+# Kaggle Competition: Generative Dog Images
 
 See https://www.kaggle.com/c/generative-dog-images
 
